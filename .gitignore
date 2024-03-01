@@ -1,0 +1,15 @@
+*.js
+!babel.config.js
+!jest.config.js
+!prettier.config.js
+*.d.ts
+node_modules
+dist/
+.DS_Store
+**/.env
+
+# Jest
+coverage/
+
+# VSCode
+.vscode/

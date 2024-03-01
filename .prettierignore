@@ -1,0 +1,9 @@
+**/*.js
+# **/*.json
+# **/*.md
+**/*.yaml
+**/*.yml
+jest.config.ts
+dist
+node_modules
+template
